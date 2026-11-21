@@ -1,0 +1,11 @@
+# Ignore everything ...
+*
+# ... but look inside top-level service folders (one level only)
+!/*/
+# Keep compose files and this file
+!compose.yml
+!compose.yaml
+!docker-compose.yml
+!docker-compose.yaml
+!compose.override.yml
+!.gitignore

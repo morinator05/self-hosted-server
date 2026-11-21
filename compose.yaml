@@ -1,0 +1,7 @@
+name: homeserver
+include:
+  - ./homeassistant/compose.yaml
+  - ./nextcloud/compose.yaml
+  - ./npm/compose.yaml
+  - ./dokuwiki/compose.yaml
+  - ./stirling/compose.yaml
