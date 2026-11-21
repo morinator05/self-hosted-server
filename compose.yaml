@@ -4,4 +4,4 @@ include:
   - ./nextcloud/compose.yaml
   - ./npm/compose.yaml
   - ./dokuwiki/compose.yaml
-  - ./stirling/compose.yaml
+  # - ./stirling/compose.yaml  # disabled, may re-enable later
