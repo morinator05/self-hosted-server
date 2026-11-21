@@ -9,3 +9,4 @@
 !docker-compose.yaml
 !compose.override.yml
 !.gitignore
+!backup.sh
